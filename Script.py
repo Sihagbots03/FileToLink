@@ -11,12 +11,14 @@ class script(object):
 Now Send Me A Media To See Magic ✨</b>"""
 
     LOG_TEXT_P = """#NewUser
+@FilexStreambot
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
     
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
+@filexstreambot
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
